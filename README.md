@@ -8,11 +8,13 @@
 )
 ## Programming Languages :
 
-<img src = 'https://github.com/123usef/123usef/blob/main/images/c-original.svg' width='30'/>
-
-
-
-<img src = 'https://github.com/123usef/123usef/blob/main/images/cpp.svg' width='30'/>
+<img src = 'https://github.com/ahmedmohamedag/ahmedmohamedag/blob/main/image/html.svg' style='margin: 10' width='30'/>
+<img src = 'https://github.com/ahmedmohamedag/ahmedmohamedag/blob/main/image/css.svg' width='30'/>
+<img src = 'https://github.com/ahmedmohamedag/ahmedmohamedag/blob/main/image/bootstrap.svg' width='30'/>
+<img src = 'https://github.com/ahmedmohamedag/ahmedmohamedag/blob/main/image/js.svg' width='30'/>
+<img src = 'https://github.com/ahmedmohamedag/ahmedmohamedag/blob/main/image/react.svg' width='30'/>
+##  other :
+<img src = 'https://github.com/ahmedmohamedag/ahmedmohamedag/blob/main/image/git.svg' width='30'/>
  
 
 
