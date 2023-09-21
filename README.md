@@ -10,9 +10,7 @@
 
 ### Connect with Me :
 
-<a href="mailto:ahmedmohamedprofile@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mohamed-0077B5?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
-<a href="https://www.linkedin.com/in/ahmed-mohamed-ag/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://wa.me/201151101537" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mohamed-238636?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
+<a href="mailto:ahmedmohamedprofile@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mohamed-0077B5?style=for-the-badge&logo=Gmail&logoColor=red"/></a>  <a href="https://www.linkedin.com/in/ahmed-mohamed-ag/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>   <a href="https://wa.me/201151101537" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mohamed-238636?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>  <a href="https://www.youtube.com/channel/UCMRvoTYVX93KCq3xZcPcDqA" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mohamed-red?style=for-the-badge&logo=Youtube&logoColor=white"/></a>
 
 #### SKils:
 
