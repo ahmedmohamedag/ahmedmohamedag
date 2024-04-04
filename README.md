@@ -25,6 +25,12 @@
 > <img src = 'https://github.com/ahmedmohamedag/ahmedmohamedag/blob/main/image/github-svgrepo-com.svg' width='30'/>  <img src = 'https://github.com/ahmedmohamedag/ahmedmohamedag/blob/main/image/git.svg' width='30'/> <img src = 'https://github.com/ahmedmohamedag/ahmedmohamedag/blob/main/image/npm-svgrepo-com.svg' width='30'/> <img src = 'https://github.com/ahmedmohamedag/ahmedmohamedag/blob/main/image/vscode2-svgrepo-com.svg' width='30'/>  <img src = 'https://github.com/ahmedmohamedag/ahmedmohamedag/blob/main/image/markdown-svgrepo-com.svg' width='30'/> 
 
  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ahmedmohamedag&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedmohamedag&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmohamedag&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
 
 
 
