@@ -2,7 +2,7 @@
 </p>
 
   
-```js
+```
  I am Ahmed Mohamed, a proficient Frontend Developer skilled in HTML, CSS, JavaScript, React, Next.js 14, Bootstrap, Tailwind CSS, MUI, and WordPress. I have a strong passion for continuous learning and self-education, and I enjoy exploring new ways to solve problems.
 
  I excel at working with any new package or library by utilizing the official documentation, thanks to my experience in researching and dealing with various libraries. I also have experience in managing Salla stores, where I can customize themes and modify CSS and JavaScript to meet project needs.
