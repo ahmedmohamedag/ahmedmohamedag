@@ -1,33 +1,14 @@
 ## <p align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&background=070B0E00&center=true&vCenter=true&random=true&width=435&lines=Ahmed+Mohamed)](https://git.io/typing-svg)
 </p>
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=24&duration=4999&pause=999&color=0440F7&background=070B0E00&vCenter=true&random=true&width=435&lines=Front-end+Developer;WordPress++Developer)](https://git.io/typing-svg) -->
+  
+```js
+ I am Ahmed Mohamed, a proficient Frontend Developer skilled in HTML, CSS, JavaScript, React, Next.js 14, Bootstrap, Tailwind CSS, MUI, and WordPress. I have a strong passion for continuous learning and self-education, and I enjoy exploring new ways to solve problems.
 
+ I excel at working with any new package or library by utilizing the official documentation, thanks to my experience in researching and dealing with various libraries. I also have experience in managing Salla stores, where I can customize themes and modify CSS and JavaScript to meet project needs.
 
-```JS
-const profile = {
-    name: "Ahmed Mohamed",
-    title: "Frontend Developer",
-    skills: [
-        "HTML","CSS", "JavaScript","TypeScript", 
-        "React","Next.js 14", "Bootstrap","Tailwind CSS","MUI", 
-        "WordPress"
-    ],
-    description: `
-        I am Ahmed Mohamed, a proficient Frontend Developer skilled in 
-        HTML, CSS, JavaScript, React, Next.js 14, Bootstrap, Tailwind CSS, 
-        MUI, and WordPress. I have a strong passion for continuous learning 
-        and self-education, and I enjoy exploring new ways to solve problems.
+I am committed to continually improving my skills and staying up-to-date with the latest frontend development technologies.
 
-        I excel at working with any new package or library by utilizing the 
-        official documentation, thanks to my experience in researching and 
-        dealing with various libraries. I also have experience in managing 
-        Salla stores, where I can customize themes and modify CSS and 
-        JavaScript to meet project needs.
-
-        I am committed to continually improving my skills and staying 
-        up-to-date with the latest frontend development technologies.`
-    }
 ```
 
 ### Connect with Me :
