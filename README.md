@@ -3,7 +3,7 @@
 
   
 
-> I am Ahmed Mohamed, a proficient Frontend Developer skilled in HTML, CSS, JavaScript, React, Next.js 14, Bootstrap, Tailwind CSS, MUI, and WordPress. I have a strong passion for continuous learning and self-education, and I enjoy exploring new ways to solve problems.
+> I am Ahmed Mohamed, a proficient Frontend Developer. I have a strong passion for continuous learning and self-education, and I enjoy exploring new ways to solve problems.
 
 > I excel at working with any new package or library by utilizing the official documentation, thanks to my experience in researching and dealing with various libraries. I also have experience in managing Salla stores, where I can customize themes and modify CSS and JavaScript to meet project needs.
 
@@ -32,8 +32,8 @@
 
 >![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) 
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
+<!-- ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) -->
+<!-- ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) -->
 
 >![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
